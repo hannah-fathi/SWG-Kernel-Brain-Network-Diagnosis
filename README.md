@@ -377,7 +377,7 @@ SWG-Kernel-Brain-Network-Diagnosis/
 # Installation
 
 ```bash
-git clone https://github.com/hannahfathi99/SWG-Kernel-Brain-Network-Diagnosis.git
+git clone https://github.com/hannah-fathi/SWG-Kernel-Brain-Network-Diagnosis.git
 
 cd SWG-Kernel-Brain-Network-Diagnosis
 
