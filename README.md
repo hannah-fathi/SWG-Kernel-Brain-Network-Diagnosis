@@ -557,7 +557,6 @@ Fall 2025.
 # Author
 
 **Hannah Fathi**
-M.Sc. Artificial Intelligence Student
 
 Research Interests:
 
