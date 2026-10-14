@@ -554,16 +554,7 @@ Fall 2025.
 
 **Fall 2025**
 
+
 # Author
 
-**Hannah Fathi**
-
-Research Interests:
-
-* Computer Vision
-* Medical AI
-* Remote Sensing
-* Large Language Models (LLMs)
-* Graph Machine Learning
-* Optimal Transport
-* Brain Network Analysis
+**Hannah Fathi**: Medical AI · Computer Vision · Explainable AI · Reproducible research
